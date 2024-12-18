@@ -13,7 +13,7 @@ This project is part of my graduation project for my Business Intelligence (BI) 
 
 ## 🚀 **How to Access**
 1. **View Files**: Click on the files above to see the analysis, Power BI dashboard, and documentation.  
-2. **View Dashboard**: You can view the live Power BI dashboard [here]([https://your-link-to-power-bi-dashboard](https://app.powerbi.com/groups/me/reports/e7d3319f-277f-4641-ad16-d833b6fe0ed8/fb643ea0908c94392562?experience=power-bi)).  
+2. **View Dashboard**: You can view the live Power BI dashboard [here](https://app.powerbi.com/groups/me/reports/e7d3319f-277f-4641-ad16-d833b6fe0ed8/fb643ea0908c94392562?experience=power-bi)
 
 ---
 
